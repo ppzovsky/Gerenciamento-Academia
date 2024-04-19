@@ -53,8 +53,6 @@ O sistema permite o cadastro de alunos, personal trainers, planos e a gestão de
 
 * Cassio Vaz Penha
 * Emanuel Fonseca Rodrigues Silvério
-* Enzo Laffront Rocha Miranda
-* Giovanne Moreira Holanda
 * João Pedro Soares De Brito
 * Raphael Vivarini Damico
 
