@@ -1,0 +1,7 @@
+Ana Silva;1987-05-12;91743620856;ana.silva@email.com;12345678;123456;Gerente
+Fernanda Souza;1988-06-14;07859421305;fernanda.souza@email.com;23456789;234567;Gerente
+Carina Santos;1990-09-23;75281390542;carlos.santos@email.com;98765432;987654;Atendente
+Rafaela Lima;1991-10-25;91547628382;rafael.lima@email.com;78912345;789123;Atendente
+Gustavo Lima;1992-11-04;12609457380;gustavo.lima@email.com;78912345;789123;Atendente
+Maria Luiza Costa;1976-02-29;96314705828;luiza.costa@email.com;32165498;321654;Auxiliar_de_servicos_gerais
+Romildo Teixeira;1980-08-02;84369251007;camila.oliveira@email.com;32165498;321654;Auxiliar_de_servicos_gerais
